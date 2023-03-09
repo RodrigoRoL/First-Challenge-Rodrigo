@@ -18,5 +18,5 @@ The following is a screenshot of the deployed website:
 (assets/images/Screenshot 2023-03-08 at 9.00.07 PM.png)
 
 ## Credits
-N/A
 
+Starter code can be found in the following repository: https://github.com/coding-boot-camp/urban-octo-telegram
